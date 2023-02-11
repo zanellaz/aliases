@@ -1,5 +1,5 @@
 ### open this
-alias aliasconf='nano ~/.bash_aliases && source ~/.bash_aliases'
+alias aliasconf='nano ~/.zsh_aliases && source ~/.zsh_aliases'
 
 ### Commands
 alias cat='batcat'
