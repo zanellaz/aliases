@@ -1,0 +1,17 @@
+### open this
+alias aliasconf='nano ~/.bash_aliases && source ~/.bash_aliases'
+
+### Commands
+alias cat='batcat'
+alias ips='ip -c -br a'
+alias upd='sudo apt update && sudo apt upgrade'
+alias ls='exa --icons'
+alias mkdir='mkdir -pv'
+alias gh='history|grep'
+alias filesize='du -sh * | sort -h'
+alias p='pgrep'
+alias ports='sudo netstat -tulanp'
+
+### LOL
+alias please='sudo'
+alias nf='clear && neofetch'
